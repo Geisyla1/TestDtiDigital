@@ -1,0 +1,14 @@
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\bin\Debug\net8.0\TestDtiDigital.exe
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\bin\Debug\net8.0\TestDtiDigital.deps.json
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\bin\Debug\net8.0\TestDtiDigital.runtimeconfig.json
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\bin\Debug\net8.0\TestDtiDigital.dll
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\bin\Debug\net8.0\TestDtiDigital.pdb
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\TestDtiDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\TestDtiDigital.AssemblyInfoInputs.cache
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\TestDtiDigital.AssemblyInfo.cs
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\TestDtiDigital.csproj.CoreCompileInputs.cache
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\TestDtiDigital.dll
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\refint\TestDtiDigital.dll
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\TestDtiDigital.pdb
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\TestDtiDigital.genruntimeconfig.cache
+C:\Users\range\OneDrive\Área de Trabalho\TestDtiDigital\TestDtiDigital\obj\Debug\net8.0\ref\TestDtiDigital.dll
