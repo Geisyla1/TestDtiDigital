@@ -1,14 +1,33 @@
-# TestDtiDigital
+# Teste_Pratico
+Teste Pratico para vaga de estágio DTI
 
-# Projeto de Orçamento para Petshops
+Foi desenvolvido nesse projeto uma resolução prática para um canil em Belo Horizonte que com os dados informados pelo usuário 
+  retornaria o nome do Petshop mais em conta na região.
+# Problema
 
-Este é um projeto simples em C# que calcula o orçamento de diferentes petshops com base na quantidade de cães de raça pequena e grande, bem como no dia da semana.
+Senhor Eduardo é proprietário de um canil em Belo Horizonte, ele trabalha com diversas raças, pequenas e grandes. Eduardo gosta que seus cães estejam sempre arrumados, felizes e cheirosos.
 
-## Funcionalidades
+No bairro do canil, para realizar o banho nos animais, existem três petshops: Meu Canino Feliz, Vai Rex e ChowChawgas. Cada um deles cobra preços diferentes para banho em cães pequenos e grandes e o preço pode variar de acordo com o dia da semana.
 
-- Calcula o orçamento para três petshops diferentes: Meu Canino Feliz, Vai Rex e ChowChawgas.
-- O preço do serviço varia dependendo do dia da semana e do tamanho dos cães.
-- Apresenta o petshop com o melhor custo-benefício.
+- **Meu Canino Feliz**: Está distante 2km do canil. Em dias de semana, o banho para cães pequenos custa R$ 20,00 e o banho em cães grandes custa R$ 40,00. Durante os finais de semana, o preço dos banhos é aumentado em 20%.
+
+- **Vai Rex**: Está localizado na mesma avenida do canil, a 1,7km. O preço do banho para dias úteis em cães pequenos é R$ 15,00 e em cães grandes é R$ 50,00. Durante os finais de semana, o preço para cães pequenos é R$ 20,00 e para os grandes é R$ 55,00.
+
+- **ChowChawgas**: Fica a 800m do canil. O preço do banho é o mesmo em todos os dias da semana. Para cães pequenos custa R$ 30,00 e para cães grandes, R$ 45,00.
+
+Apesar de se importar muito com seus cãezinhos, Eduardo quer gastar o mínimo possível. Desenvolva uma solução para encontrar o melhor petshop para levar os cães. O melhor petshop será o que oferecer menores preços. Em caso de empate, o melhor é o mais próximo do canil.
+
+**Entrada:**
+
+<data> <quantidade de cães pequenos> <quantidade de cães grandes>
+
+Exemplo: 03/08/2018 3 5
+
+**Saída:**
+
+Nome do melhor petshop e preço total dos banhos.
+
+---
 
 ## Como Rodar
 
@@ -18,13 +37,6 @@ Este é um projeto simples em C# que calcula o orçamento de diferentes petshops
 4. Execute o comando `dotnet run` para compilar e executar o programa.
 5. Siga as instruções fornecidas pelo programa para inserir a quantidade de cães e a data desejada.
 
-## Testes Unitários
-
-Os testes unitários foram implementados usando a biblioteca [xUnit.net](https://xunit.net/).
-
-1. Os testes podem ser encontrados na pasta de testes dentro do projeto.
-2. Para executar os testes, abra um terminal na pasta raiz do projeto e execute o comando `dotnet test`.
-
 ## Detalhes da Implementação
 
 - O programa consiste em três classes principais: `Orcamento`, `DiaSemana` e `Program`.
@@ -32,10 +44,9 @@ Os testes unitários foram implementados usando a biblioteca [xUnit.net](https:/
 - A classe `DiaSemana` é responsável por obter o dia da semana a partir de uma data inserida pelo usuário.
 - O programa principal está na classe `Program`, onde o usuário interage com o sistema inserindo a quantidade de cães e a data desejada.
 
+  
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+---
