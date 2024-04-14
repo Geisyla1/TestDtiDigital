@@ -45,10 +45,6 @@ Nome do melhor petshop e preço total dos banhos.
 - O programa principal está na classe `Program`, onde o usuário interage com o sistema inserindo a quantidade de cães e a data desejada.
 
 # Código 
- ## Sobre o Projeto
-
-Este projeto consiste em um programa simples para fazer orçamentos em petshops. Ele permite calcular o valor de serviços para cães de raças pequenas e grandes com base no dia da semana e na quantidade de cães.
-
 ## Funcionamento
 
 1. **Obtenção do Dia da Semana:**
