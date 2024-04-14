@@ -1,5 +1,5 @@
 # Teste_Pratico
-Teste Pratico para vaga de estágio DTI
+Teste Pratico para vaga na empresa DTI digital
 
 Foi desenvolvido nesse projeto uma resolução prática para um canil em Belo Horizonte que com os dados informados pelo usuário 
   retornaria o nome do Petshop mais em conta na região.
@@ -44,7 +44,37 @@ Nome do melhor petshop e preço total dos banhos.
 - A classe `DiaSemana` é responsável por obter o dia da semana a partir de uma data inserida pelo usuário.
 - O programa principal está na classe `Program`, onde o usuário interage com o sistema inserindo a quantidade de cães e a data desejada.
 
+# Código 
+ ## Sobre o Projeto
+
+Este projeto consiste em um programa simples para fazer orçamentos em petshops. Ele permite calcular o valor de serviços para cães de raças pequenas e grandes com base no dia da semana e na quantidade de cães.
+
+## Funcionamento
+
+1. **Obtenção do Dia da Semana:**
+   - O programa solicita ao usuário que digite uma data no formato `dd/mm/yyyy`.
+   - Em seguida, ele verifica se a data é válida e retorna o dia da semana correspondente.
+
+2. **Entrada de Dados:**
+   - O usuário informa a quantidade de cães de raças pequenas e grandes.
+
+3. **Cálculo dos Orçamentos:**
+   - Com base no dia da semana e nas quantidades informadas, o programa calcula três possíveis orçamentos em diferentes petshops:
+     - Meu Canino Feliz
+     - Vai Rex
+     - ChowChawgas
+
+4. **Comparação e Resultado:**
+   - O programa compara os valores dos orçamentos e exibe qual petshop oferece o serviço mais barato.
+
+## Classes Principais
+
+- `Program`: Classe principal que controla a execução do programa, obtém o dia da semana, coleta as informações do usuário e chama o método de comparação de orçamentos.
   
+- `DiaSemana`: Classe responsável por obter o dia da semana a partir de uma data informada pelo usuário.
+
+- `Orcamento`: Classe que realiza os cálculos dos orçamentos para cada petshop e compara os valores para determinar o mais barato.
+ 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
