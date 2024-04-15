@@ -1,5 +1,4 @@
 # Teste_Pratico
-Teste Pratico para vaga na empresa DTI digital
 
 Foi desenvolvido nesse projeto uma resolução prática para um canil em Belo Horizonte que com os dados informados pelo usuário 
   retornaria o nome do Petshop mais em conta na região.
